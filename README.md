@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72909&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Marcos+Aur%C3%A9lio." alt="Typing SVG" /></a>
 
-- :mortar_board: Atualmente estou cursando Analise e Desenvolvimento de Sistemas.
+- :mortar_board: Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 🔭 Meu foco atual é no front-end e na Quality Assurance (QA)
-- ⚡ Curiosidade: Sou apaixonado por esportes e cursei Educação Física, antes de começar a estudar programação.
+- ⚡ Curiosidade:  Sou apaixonado por esportes e cursei Educação Física, antes de começar a estudar programação.
 
 <!-- Social media and Contact  -->
 <div align="center">
